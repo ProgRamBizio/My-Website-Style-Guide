@@ -163,5 +163,17 @@ body {
   h1 {
     font-family: "Mountains Of Christmas";
     font-size: 26px;
-    font-weight: 700;
+    font-weight: 700;  
+    }
+
+  h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Quantico";
+  }
+
+  p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Chakra Petch";
   }
